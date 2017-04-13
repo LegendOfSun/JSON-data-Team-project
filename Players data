@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "name": {
+      "first": "Eden",
+      "last": "Hazard"
+    },
+   "age":26,
+   "height":"173 \0",
+   "weight":"74",
+   "nationality": "Belgium"
+   "birthdate":"7 January, 1991",
+   "position":"Midfielder (Centre, Left, Right)
+              Forward",
+   "number":10,
+   "team":"Chelsea"
+},
+
+{
+  "id":2,
+  "name": {
+      "first": "Alexis",
+      "last": "Sanchez"
+    },
+   "age":,
+   "height":" ",
+   "weight":"",
+   "nationality": ""
+   "birthdate":"",
+   "position":"",
+   "number":,
+   "team":""
+}
