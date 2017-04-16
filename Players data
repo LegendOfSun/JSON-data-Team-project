@@ -6,7 +6,7 @@
     },
    "age":26,
    "height":"173 \0",
-   "weight":"74",
+   "weight":"74 kg",
    "nationality": "Belgium"
    "birthdate":"7 January, 1991",
    "position":"Midfielder (Centre, Left, Right)
@@ -18,15 +18,66 @@
 {
   "id":2,
   "name": {
-      "first": "Alexis",
-      "last": "Sanchez"
+      "first": "Edin",
+      "last": "Dzeko"
     },
-   "age":,
-   "height":" ",
-   "weight":"",
-   "nationality": ""
-   "birthdate":"",
-   "position":"",
-   "number":,
-   "team":""
+   "age":31,
+   "height":"193 \0" ,
+   "weight":"84 kg",
+   "nationality": "Bosnia and Herzegovina"
+   "birthdate":"17 March,1986",
+   "position":"Forward",
+   "number":9,
+   "team":"Roma"
+},
+
+{
+  "id":3 ,
+  "name": {
+      "first": "Neymar",
+      "last": "Santos"
+    },
+   "age":25,
+   "height":"175 \0 ",
+   "weight":"68kg",
+   "nationality": "Brazil"
+   "birthdate":"5 February, 1992",
+   "position":"Attacking Midfielder (Centre,Left,Right)",
+   "number":11,
+   "team":"Barcelona"
+}, 
+
+{
+  "id": 4,
+  "name": {
+      "first": "Lionel",
+      "last": "Messi"
+    },
+   "age":29,
+   "height":"170 \0",
+   "weight":"72",
+   "nationality": "Argentina"
+   "birthdate":"24 June,1987",
+   "position":"Attacking Midfielder (Centre, Right) Forward",
+   "number":10,
+   "team":"Barcelona"
+}, 
+
+{
+  "id":5,
+  "name": {
+      "first":"Cristiano",
+      "last":"Ronaldo"
+    },
+   "age": 32,
+   "height":"185 \0",
+   "weight":"80 ",
+   "nationality": "Portugal"
+   "birthdate":"5 February,1985",
+   "position":"Midfielder(Left) Forward",
+   "number":7,
+   "team":"Real Madrid"
 }
+
+
+
